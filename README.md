@@ -24,18 +24,6 @@ The goal is to help prioritize **infrastructure maintenance**, **identify high-r
 
 ---
 
-## 📂 Files Included
-
-| File | Description |
-|:---|:---|
-| `Sewer_Pipes.csv` | Raw input dataset (attributes of sewer pipes) |
-| `processed_sewer_pipes.csv` | Enhanced dataset with Pipe Age and Size Category |
-| `dashboard.py` | Python script to perform calculations and generate plots |
-| `Enhanced_Sewer_Pipes.shp` | Final shapefile with joined analytical data (generated in QGIS) |
-| `README.md` | Project overview and instructions |
-
----
-
 ## 📈 Features and Analysis Performed
 
 - **Load and Clean Data:**
