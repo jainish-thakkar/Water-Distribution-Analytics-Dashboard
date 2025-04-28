@@ -50,12 +50,6 @@ The goal is to help prioritize **infrastructure maintenance**, **identify high-r
 
 ---
 
-## 🗺️ Example Dashboards (Screenshots)
-
-_(Optional: You can insert images of your histogram, bar chart, pie chart, and QGIS maps here.)_
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone or download the repository.
